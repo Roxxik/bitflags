@@ -1,3 +1,7 @@
+####FORK OF BITFLAGS
+
+use this only on *no_std* systems
+
 bitflags
 ========
 
